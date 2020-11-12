@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE student test scores SYSTEM XML1.DTD>
 
+<grades>
 <student id = 16430122-1521  name = Pace, Camden G.>
 <Test 1 score = 54> </Test1>
 <Test 2 score = 63> </Test2>
@@ -50,6 +51,18 @@
 <Test 2 score = 63> </Test 2>
 <Essay 3 score = C- > </Essay 3>
 </student>
+  </grades>
+  
+<?xml version="1.0"?>
+<!ATTLIST Test  1 score CDATA #REQUIRED>
+<!ATTLIST Test  2 score CDATA #REQUIRED>
+<!ATTLIST Essay 1 score CDATA #REQUIRED>
+<!ATTLIST Essay 2 score CDATA #REQUIRED>  
+<!ATTLIST Essay 3 score CDATA #REQUIRED>  
+ 
+  
+  
+  
 
 
 
