@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE student test scores SYSTEM XML1.DTD>
+
+<student id = 16430122-1521  name = Pace, Camden G.>
+<Test 1 score = 54> </Test1>
+<Test 2 score = 63> </Test2>
+<Essay 1 score = C+> </Test3>
+<Essay 2 score = B+ > </Test4>
+<Activity 1 score = Pass > </Activity 1>
+<Test 2 score = 32% > </Test 2>
+<Essay 3 score = C+ > </Essay 3>
+</student>
+
+<student id = 16470212-9851  name = Weber, Lucy X.>
+<Test 1 score = 32> </Test 1>
+<Test 2 score = 41> </Test 2>
+<Essay 1 score = C-> </Essay 1>
+<Essay 2 score =  C-> </Essay 2>
+<Activity 1 score = Fail> </Activity 1>
+<Test 2 score = 73> </Test 2>
+<Essay 3 score = C+ > </Essay 3>
+</student>
+
+<student id = 16060213-9990  name = Branch, Caesar A>
+<Test 1 score = 73></Test 1>
+<Test 2 score = 81> </Test 2>
+<Essay 1 score = C-> <Essay 1>
+<Essay 2 score =  C+> </Essay 2>
+<Activity 1 score = Pass> </Activity 1>
+<Test 2 score = 63> </Test 2>
+<Essay 3 score = B+> </Essay 3>
+</student>
+
+<student id = 16720905-9422  name = Beck, Sara K.>
+<Test 1 score = 66> </Test 1>
+<Test 2 score = 57> </Test 2>
+<Essay 1 score = C-> </Essay 1>
+<Essay 2 score =  D+> </Essay 2>
+<Activity 1 score = Pass > </Activity 1>
+<Test 2 score = 41> </Test 2>
+<Essay 3 score = C- > </Essay 3>
+</student>
+
+<student id = 16471011-5884 name = Valenzuela, Daphne E.>
+<Test 1 score = 43> </Test 1>
+<Test 2 score = 45> </Test 2>
+<Essay 1 score = B+> </Essay 1>
+<Essay 2 score =  A-> </Essay 2>
+<Activity 1 score = Fail > </Activity 1>
+<Test 2 score = 63> </Test 2>
+<Essay 3 score = C- > </Essay 3>
+</student>
+
+
+
+
