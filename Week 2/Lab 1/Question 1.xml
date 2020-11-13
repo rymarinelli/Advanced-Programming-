@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE student test scores SYSTEM XML1.DTD>
+<!DOCTYPE student scores SYSTEM XML1.DTD>
 
 <grades>
 <student id = 16430122-1521  name = Pace, Camden G.>
@@ -53,14 +53,24 @@
 </student>
   </grades>
   
-<?xml version="1.0"?>
+<!DOCTYPE grades [
+ 
+<!ELEMENT element-name student>
+<!ELEMENT element-name Test 1>
+<!ELEMENT element-name Test 2>
+<!ELEMENT element-name Essay 1>  
+<!ELEMENT element-name Essay 2>
+<!ELEMENT element-name Essay 3>  
+<!ELEMENT element-name Activity 1>
+
+  
 <!ATTLIST Test  1 score CDATA #REQUIRED>
 <!ATTLIST Test  2 score CDATA #REQUIRED>
 <!ATTLIST Essay 1 score CDATA #REQUIRED>
 <!ATTLIST Essay 2 score CDATA #REQUIRED>  
 <!ATTLIST Essay 3 score CDATA #REQUIRED>  
  
-  
+]>  
   
   
 
